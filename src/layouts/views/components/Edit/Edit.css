@@ -1,0 +1,16 @@
+.edit {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.edit .text {
+    padding: 10px;
+}
+
+.edit .input {
+    width: 100%;
+    margin-right: 20px;
+}
